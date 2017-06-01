@@ -9,3 +9,18 @@
 
 **Link to work:** [Code Fights](https://codefights.com/)
 
+
+### Day 2: June 1, 2017
+#####
+
+**Today's Progress**: Started work on my fidget spinner web based incremental
+game
+
+**Thoughts:** I took a while getting started with this, running into small
+problem with setting the project up. I haven't used html, css and javascript
+for a while (since my last attempt at making an incremental game). Things will
+be slow going while I work up my knowledge again. I got a thing to spin and
+speed up as you click, which is pretty cool!
+
+**Link to work:** git@github.com:InfinitySamurai/100-days-of-code.git
+
