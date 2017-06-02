@@ -24,3 +24,17 @@ speed up as you click, which is pretty cool!
 
 **Link to work:** git@github.com:InfinitySamurai/100-days-of-code.git
 
+### Day 3: June 2, 2017
+#####
+
+**Today's Progress**: I moved some of my code around. Moved things to
+functions and created classes for my spinners.
+
+**Thoughts:** This wasn't too hard for today, and hopefully it will make things
+easier in the future. This took longer than it probably needed to again because
+I'm relearning javascript to some extent. I'm not looking forward to tomorrow
+when I have to start writing some better html so I can include some more
+buttons to upgrade my spinner.
+
+**Link to work:** git@github.com:InfinitySamurai/100-days-of-code.git
+
