@@ -22,7 +22,7 @@ for a while (since my last attempt at making an incremental game). Things will
 be slow going while I work up my knowledge again. I got a thing to spin and
 speed up as you click, which is pretty cool!
 
-**Link to work:** git@github.com:InfinitySamurai/100-days-of-code.git
+**Link to work:** git@github.com:InfinitySamurai/spin-to-win
 
 ### Day 3: June 2, 2017
 #####
@@ -36,5 +36,19 @@ I'm relearning javascript to some extent. I'm not looking forward to tomorrow
 when I have to start writing some better html so I can include some more
 buttons to upgrade my spinner.
 
-**Link to work:** git@github.com:InfinitySamurai/100-days-of-code.git
+**Link to work:** git@github.com:InfinitySamurai/spin-to-win
+
+### Day 4: June 3, 2017
+#####
+
+**Today's Progress**: I started to migrate over to using the Pixi framework for
+creating my game.
+
+**Thoughts:** As usual this was slower than I thought it would be, I have
+higher expectations of how much I can achieve versus how much is actually
+feasable to achieve. Pixi allows me to move away from worrying about HTML and
+css so I can focus on the stuff I actually like with coding, and will allow me
+to make full use WebGL with a nice wrapper.
+
+**Link to work:** git@github.com:InfinitySamurai/spin-to-win
 
