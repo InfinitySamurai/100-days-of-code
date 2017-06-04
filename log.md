@@ -52,3 +52,12 @@ to make full use WebGL with a nice wrapper.
 
 **Link to work:** git@github.com:InfinitySamurai/spin-to-win
 
+### Day 5: June 4, 2017
+#####
+
+**Today's Progress**: I played around with some bash scripting today to sync my dekstop computer and my laptop configurations. I now have a setup script for my configs that will remove old config files and create sylinks to my config repo folder.
+
+**Thoughts:** I hate bash. I already knew that I didn't like bash, but spending 2 hours trying to write a fairly simple script just ruined me. I hope I never have to touch the stuff again, but I inevitably will.
+
+**Link to work:** git@github.com:InfinitySamurai/configs
+
