@@ -61,3 +61,13 @@ to make full use WebGL with a nice wrapper.
 
 **Link to work:** git@github.com:InfinitySamurai/configs
 
+
+### Day 6: June 5, 2017
+#####
+
+**Today's Progress**: Moved more code around in spin-to-win to make it easier going forward. Managed to implement clicking within PixiJS
+
+**Thoughts:** I had to ask for help in the Pixi forum for this one. I couldn't figure out why an event wasn't working for an object, but of course I had to pass the object as an argument in the event. I'm not sure if the docs were just not clear on this or if I didn't look hard enough
+
+**Link to work:** git@github.com:InfinitySamurai/spin-to-win
+
