@@ -71,3 +71,17 @@ to make full use WebGL with a nice wrapper.
 
 **Link to work:** git@github.com:InfinitySamurai/spin-to-win
 
+### Day 7: June 7, 2017
+#####
+
+**Today's Progress**: I missed yesterday due to unforseen circumstances. Today
+I made sure that all my rotation amounts were consistent so that I don't
+confuse myself in the future. 
+
+**Thoughts:** I still think things will take less time than they do. I expected
+to get this resolved in 30 minutes and it took me 2 hours. Tomorrow I believe I
+can move on to more interestng things, adding numbers to display speed and
+decay etc. of my spinners.
+
+**Link to work:** git@github.com:InfinitySamurai/spin-to-win
+
