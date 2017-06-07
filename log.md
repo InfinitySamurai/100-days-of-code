@@ -83,5 +83,11 @@ to get this resolved in 30 minutes and it took me 2 hours. Tomorrow I believe I
 can move on to more interestng things, adding numbers to display speed and
 decay etc. of my spinners.
 
+I actually did a whole lot more work on this later in the night! I added a UI
+element that tracks the speed of my spinner. A bit hacky to begin with, but I
+can fix it up tomorrow to take a proper variable reference. Really pleased that
+I managed to code this and only run into a few bugs that needed to be
+addressed.
+
 **Link to work:** git@github.com:InfinitySamurai/spin-to-win
 
