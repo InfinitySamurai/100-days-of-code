@@ -91,3 +91,19 @@ addressed.
 
 **Link to work:** git@github.com:InfinitySamurai/spin-to-win
 
+### Day 8: June 8, 2017
+#####
+
+**Today's Progress**: Made my UI box reference an objects variable properly.
+Also limited text box number outputs to 2 decimals.
+
+**Thoughts:** This took AGES to get working. I spent a long time trying to
+setup my UI to update appropiately with numbers from an external object. I
+couldn't figure out how to give the text box a reference to an objects
+variable, because you can't in javascript. I explored many methods but none of
+them fit until I finally ran into a simple solution of giving the UI element a
+reference of the object, and the name of the variable and simply calling
+object[variable].
+
+**Link to work:** git@github.com:InfinitySamurai/spin-to-win
+
