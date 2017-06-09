@@ -107,3 +107,20 @@ object[variable].
 
 **Link to work:** git@github.com:InfinitySamurai/spin-to-win
 
+### Day 8: June 9, 2017
+#####
+
+**Today's Progress**: I moved some of my objects into containers so they would
+be grouped together. I added in a rectangle graphics for my progress bar that
+I'm going to use with the spinner. I also added some units for my UI number
+display
+
+**Thoughts:** Things are going well, I'm glad that I've added some objects into
+containers together now, because if I need to move any of my elements around I
+can just move the whole container now. I'm not sure how I'm going to get my
+progress bar to work just yet, but I have a fairly good idea that I can add a
+new graphics object inside my existing bar that will fill up and go down as it
+updates.
+
+**Link to work:** git@github.com:InfinitySamurai/spin-to-win
+
