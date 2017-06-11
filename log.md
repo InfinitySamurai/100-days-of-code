@@ -124,3 +124,22 @@ updates.
 
 **Link to work:** git@github.com:InfinitySamurai/spin-to-win
 
+### Day 9: June 11, 2017
+#####
+
+**Today's Progress**: I missed yesterday due to a full day out. Today I managed
+to get my progress bar working, including text that display the value you have
+out of the maximum value AND the option for that to be a percentage. I added
+currency that gets added for every rotation of the spinner. This is actually
+not calculated correctly at the moment
+
+**Thoughts:** I started to feel a bit forced today working on this project, I
+kind of wanted to bum around all day but I'm glad that I made myself get
+something done, and I actually managed to get a few things which I'm happy
+about. UX is probably a big thing that will come up soon which I have no idea
+how to approach but I'm sure it will be an interesting journey. I'm also
+probably going to have to redesign my UI implementation in the not too far
+future.
+
+**Link to work:** git@github.com:InfinitySamurai/spin-to-win
+
