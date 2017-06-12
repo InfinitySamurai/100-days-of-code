@@ -143,3 +143,19 @@ future.
 
 **Link to work:** git@github.com:InfinitySamurai/spin-to-win
 
+### Day 10: June 12, 2017
+#####
+
+**Today's Progress**: I moved more of my code around to hopefully make it more
+extensible, mostly to do with UI. I also started the basis of my upgrade
+buttons
+
+**Thoughts:** I think I'm going to need to actually design a bit better how my
+UI is setup, I think I said this last week. I did a bit of re-factoring today
+but I think it's not in great shape still and could do with a real re-think.
+I'm looking forward to getting my upgrade buttons implemented but this will
+either have to be a hacky solution, or I'll have to sort out my UI
+implementation first.
+
+**Link to work:** git@github.com:InfinitySamurai/spin-to-win
+
