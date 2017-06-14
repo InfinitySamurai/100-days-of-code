@@ -159,3 +159,22 @@ implementation first.
 
 **Link to work:** git@github.com:InfinitySamurai/spin-to-win
 
+### Day 11: June 14, 2017
+#####
+
+**Today's Progress**: I added my upgrade buttons and made them work, as well as
+changing the way the UI worked again. I suspect this will happen every day for
+the UI. 
+
+**Thoughts:** I failed again yesterday at doing some work on this project, I
+haven't got a lot of consecutive days working but I'm still going alright at
+working on stuff. THe UI needs to be constantly changed with the way that it
+works so that it is more extendible, I think I've got it into a form that will
+hopefully work with a bit more prodding. The upgrade buttons weren't too much
+of a hassle to implement which I'm happy about, there are still issues with
+creating them when there are special cases but I can work that out tomorrow.
+I'm thinking I might need to start creating external files for data for the
+game to extract that information, or just create special classes or something. 
+
+**Link to work:** git@github.com:InfinitySamurai/spin-to-win
+
