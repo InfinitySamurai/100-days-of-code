@@ -178,3 +178,18 @@ game to extract that information, or just create special classes or something.
 
 **Link to work:** git@github.com:InfinitySamurai/spin-to-win
 
+### Day 12: June 16, 2017
+#####
+
+**Today's Progress**: Added a data file for upgrades so that it isn't in my
+main code
+
+**Thoughts:** This took me a while to format the data file correctly for
+javascript. Hopefully this will make implementing new upgrade a lot easier in
+the future. I need to make some data files for other object but it will be
+much quicker next time because I know how to actually format them now. I need
+to also use the data files in my actual code to generate upgrade buttons etc.
+
+**Link to work:** [Code Fights](https://codefights.com/)
+
+
